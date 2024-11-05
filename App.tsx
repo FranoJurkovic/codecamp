@@ -1,18 +1,18 @@
 import React from "react";
-import Task1 from "./Components/task1.1";
-import Task2 from "./Components/task1.2";
-import Task3 from "./Components/task1.3";
-import Task4 from "./Components/task1.4";
-import Task5 from "./Components/task1.5";
-import Task6 from "./Components/task1.6";
-import Task7 from "./Components/task1.7";
-import Task8 from "./Components/task2.1";
-import Task9 from "./Components/task2.2";
-import Task10 from "./Components/task3.1";
-import Task11 from "./Components/task3.2";
-import Task12 from "./Components/task3.3";
-import Task13 from "./Components/task3.4";
-import Task14 from "./Components/task3.5";
+import Task1 from "./Components/Task1/task1.1";
+import Task2 from "./Components/Task1/task1.2";
+import Task3 from "./Components/Task1/task1.3";
+import Task4 from "./Components/Task1/task1.4";
+import Task5 from "./Components/Task1/task1.5";
+import Task6 from "./Components/Task1/task1.6";
+import Task7 from "./Components/Task1/task1.7";
+import Task8 from "./Components/Task2/task2.1";
+import Task9 from "./Components/Task2/task2.2";
+import Task10 from "./Components/Task3/task3.1";
+import Task11 from "./Components/Task3/task3.2";
+import Task12 from "./Components/Task3/task3.3";
+import Task13 from "./Components/Task3/task3.4";
+import Task14 from "./Components/Task3/task3.5";
 
 export const App: React.FC = () => {
   return (
